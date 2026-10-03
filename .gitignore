@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+Debug/
+Release/
+TestResults/
+*.pdb
+
+# Local database and configuration files
+*.mdf
+*.ldf
+appsettings.Local.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
